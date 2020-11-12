@@ -22,7 +22,7 @@ campaigns than too high of an initial fundraising goal. The standard
 deviations of the goal and pledged amounts for both successful and failed
 campaigns were roughly twice their corresponding inter-quartile ranges,
 indicating large goal and pledged outliers are affecting the statistics.
-This is also the case for GB, as shown in
+This is also the case for G.B, as shown in
 [GB Musicals Goal And Pledged Amounts](plots/GBMusicals-BoxWhisker.png). We
 see in this plot that the mean value is skewed above the median, indicating
 large outliers are present.
