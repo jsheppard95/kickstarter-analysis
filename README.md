@@ -20,7 +20,7 @@ However, the mean pledged amount for successful and failed campaigns also
 follows this trend which suggests there are other factors leading to failed
 campaigns than too high of an initial fundraising goal. The standard
 deviations of the goal and pledged amounts for both successful and failed
-campaigns were roughly twice their corresponding inter-quartile ranges,
+campaigns were roughly twice their corresponding interquartile ranges,
 indicating large goal and pledged outliers are affecting the statistics.
 This is also the case for G.B, as shown in
 [GB Musicals Goal And Pledged Amounts](plots/GBMusicals-BoxWhisker.png). We
@@ -28,6 +28,6 @@ see in this plot that the mean value is skewed above the median, indicating
 large outliers are present.
 
 In summary, we find that theater campaigns are a popular kickstarter
-category relative to other forms of entertainment. We recommend a camapaign
+category relative to other forms of entertainment. We recommend a campaign
 in this category begin in early summer as opposed to winter and have a goal
 that is closer to $3000, the median value of successful U.S kickstarters.
