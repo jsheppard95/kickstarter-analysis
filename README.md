@@ -76,7 +76,8 @@ campaigns beginning in the month of May versus 37 successful in December. It
 thus appears advantageous to begin a campaign in early summer since after May
 we see a gradual decline in the number of successful campaigns. In comparison,
 the launch date does not appear to have a large effect on the number of failed
-and canceled theater campaigns.
+and canceled theater campaigns, and we see similar trends among kickstarter
+campaigns as a whole.
 
 After analyzing campaign outcome based on its target goal, we learn that failed
 campaigns tend to have larger fundraising goals than successful ones. This is
