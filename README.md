@@ -22,7 +22,7 @@ We first investigate the relationship between a theater campaign's outcome and
 its launch date. To do so we create the pivot table in sheet `Theater Outcomes
 by Launch Date` to show the count of each outcome versus the month in which it
 was launched. We add filters to select `Parent Category` and `Years` to produce
-the table shown in ![Table of Theater Outcomes versus Launch
+the table shown in [Table of Theater Outcomes versus Launch
 Date](resources/PivotTable_Outcomes_vs_Dates.png). We then create a line chart
 of this data as shown in [Plot of Theater Outcomes Based on Launch
 Date](resources/Theater_Outcomes_vs_Launch.png) to visualize this
@@ -33,7 +33,7 @@ We then consider a theater project's outcome based on the goal of its
 kickstarter campaign. We do this in sheet `Outcomes Based on Goals` where we
 record the number of successful, failed, and canceled campaigns with
 fundraising goals ranging from less than $1000 to greater than $50,000 in
-groups of $5,000. This leads to the table shown in ![Table of Theater Outcomes
+groups of $5,000. This leads to the table shown in [Table of Theater Outcomes
 versus Goal](resources/Table_Outcomes_vs_Goals.png), where we use the Excel
 function `COUNTIFS` to count campaigns in sheet `Kickstarter` with the outcome
 shown in the corresponding column, goal range shown in the corresponding row,
